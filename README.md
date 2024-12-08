@@ -40,8 +40,14 @@ This project is built using **Vite** for a fast and optimized frontend experienc
 
 ## 📁 Project Structure
 
-/src/ ├── assets/ ├── components/ ├── pages/ ├── utils/ ├── App.js ├── index.js └── vite.config.js /dist/ 
-# Compiled production assets /node_modules/ # Dependencies package.json # Project dependencies and commands README.md # Project documentation index.html # HTML file
+/src/ 
+├── assets/ 
+├── components/ 
+├── pages/ 
+├── utils/ 
+├── App.js 
+├── index.js 
+└── vite.config.js /dist/ 
 
 
 ---
